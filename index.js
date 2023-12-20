@@ -1,7 +1,6 @@
 
 function titleCased() {
-  // Your implementation here
-  // For demonstration purposes, I'm providing a static array with title-cased tutorial names
+  
   return [
     "What Does The This Keyword Mean?",
     "What Is The Constructor OO Pattern?",
